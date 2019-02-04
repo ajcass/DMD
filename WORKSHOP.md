@@ -36,3 +36,33 @@
 **What is the icon for the project navigator and where is it located?**
 
   Folder on the top left
+
+
+**Workshop 03
+What is the location framework called in iOS**
+
+...
+
+**What are the two numbers that determine location**
+
+Latitude & Longitude
+
+**There are two keys you need to add to the info.plist in order to use gps of a device, what are they?**
+
+allow location all times, allow location during app...
+
+**Can you explain the role of the CLLocationManager delegate that we looked at?**
+
+...
+
+**How can you simulate location on the simulator?**
+
+Select location with the arrow bottom while using simulator
+
+**How do you create a custom simulator for testing?**
+
+add latitude & longitunde using...
+
+**How can you automatically tell the simulator to use this when you run your app?**
+
+Select the run simulator and select to run automatically..
